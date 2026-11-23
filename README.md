@@ -11,4 +11,4 @@ python -m pip install pyautogui pyperclip keyboard
 python wechat_contacts.py
 ```
 
-按终端提示将鼠标放到对应位置。脚本依赖窗口布局和剪贴板，微信界面改版、缩放或窗口移动后可能需要重新定位。导出文件可能包含个人信息，请在本机处理。
+按终端提示将鼠标放到对应位置。微信界面改版、缩放或窗口移动后，需要重新定位。导出的 `contacts.txt` 保存在本机，公开演示请使用示例联系人。
